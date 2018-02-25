@@ -11,6 +11,11 @@ def countdown(number)
   end
 end
 
+<<<<<<< HEAD
 def countdown_with_sleep(second)
   sleep(second)
+=======
+def countdown_with_sleep
+  sleep(1)
+>>>>>>> f0c2a391928cd186259932d033352e1bebc95cb3
 end
